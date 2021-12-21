@@ -1,7 +1,7 @@
 clc;
 close all;
 
-x=[1,2,1,1]; %first signal 0r input signal 
+x=[1,2,1,1]; %first signal
 h=[1,-1,1,-1]; %second signal 
 N1=length(x); 
 N2=length(h); 
